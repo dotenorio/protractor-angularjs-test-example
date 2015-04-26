@@ -4,7 +4,7 @@ Exemplo de testes end-to-end para AngularJS utilizando Protractor
 ### Rode em linha de comando da raiz do repositório:
 
 ```
-$ npm istall -g protractor
+$ npm install -g protractor
 $ npm install
 $ npm run update-webdriver
 $ npm test
