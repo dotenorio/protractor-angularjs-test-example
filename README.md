@@ -7,6 +7,7 @@ Exemplo de testes end-to-end para AngularJS utilizando Protractor
 $ npm install -g protractor
 $ npm install
 $ npm run update-webdriver
+$ npm start
 $ npm test
 ```
 
